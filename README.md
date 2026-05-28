@@ -22,7 +22,11 @@
 
  ## Skills
  SQL: CTEs, Sub-Queries, JOINs, CASE, WINDOW(LAG, ROW number), Aggregate Functions
+ 
+ ## Dataset
 
+ The dataset used in this project is the [Superstore Sales Dataset](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final) from Kaggle.
+ 
  ## Results & Business Recommendations
   Trend lines show that the sales in the technology category spiked, while there is a significant decline in the office supplies category. 
   (keeping SKU available for technology while increasing focus on office supplies ) 
